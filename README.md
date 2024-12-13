@@ -60,7 +60,7 @@ To get the application up and running on your local machine, follow these steps:
 
 ### **1\. Clone the Repository:**
 
-`   git clone [https://github.com/sparshgupta121/AnalyticsHub](https://github.com/sparshgupta121/AnalyticsHub)   `
+`   git clone https://github.com/sparshgupta121/AnalyticsHub   `
 
 ### **2\. Install Dependencies:**
 
